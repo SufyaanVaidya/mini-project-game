@@ -23,3 +23,10 @@ header {
  justify-content: center;
  align-items: center;
 }
+#word-container {
+   visibility: hidden;
+}
+
+#score-container {
+    visibility: hidden;
+}
